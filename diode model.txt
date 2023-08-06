@@ -1,0 +1,1 @@
+.model 5082-2800 D(Is=2.2E-9 N=1.08 Rs=25 Eg=0.69 Cjo=1.6p M=0.5 Bv=75 type=Schottky)
