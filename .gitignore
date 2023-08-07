@@ -1,0 +1,9 @@
+Simulations/Final/*.log
+Simulations/Final/*.net
+Simulations/Final/*.op.raw
+Simulations/Final/*.raw
+
+Simulations/Stages/*.log
+Simulations/Stages/*.net
+Simulations/Stages/*.op.raw
+Simulations/Stages/*.raw
