@@ -7,3 +7,4 @@ Simulations/Stages/*.log
 Simulations/Stages/*.net
 Simulations/Stages/*.op.raw
 Simulations/Stages/*.raw
+Simulations/Stages/*.fft
